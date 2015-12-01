@@ -1,0 +1,51 @@
+# Boost app Changelog (日本語)
+
+[back to readme.md](readme.md)
+
+> ### Other languages
+> - [English](changelog.md)
+> - [한국어](changelog-kr.md)
+
+## 0.4.3 (2015/12/1)
+
+- Discuss Link の追加しました。
+- 新規作成時、Titleを入れなかったら、代わりに作成時間を入れます。
+- Cmd + pでMarkdownのPreview/Edit切り替えができます。
+- Cmd + nで新しい投稿ができます。
+- visible on all workspace オプションを解除しました。
+- それ以外の細かい問題を改善しました。
+
+## 0.4.2 (2015/11/25)
+
+- Finderの動きが綺麗になりました。(まだ実験的な要素が入っていますので、バグったら速攻連絡してください
+- MarkdownのCode blockにSyntax highlightが使えます
+- MarkdownにEmojiが使えます
+- 編集内容が残っている状態で、キャンセルボタンを押しても警告を出します
+
+# 0.4.1-beta.3 (2015/11/22)
+
+- 新しいポストを書くとき発生するバグを直しました
+- 初期記事の内容の間違いを訂正しました。
+- 通知を直しました(Node-notifier -> WebNotification)
+
+## 0.4.1-beta.2 (2015/11/21)
+
+コードを隠すようにしました。
+実はコード自体をOpensource化する計画はありますが、今ではないです。
+
+- コードは全部Uglifyされて、Packagingされます。
+- Devtoolは開けないようになりました。
+
+## 0.4.1-beta.1 (2015/11/18)
+
+- 保存されていない変更事項があるときに出す警告が変なときにも現れる問題修正。
+
+## 0.4.1-beta (2015/11/16)
+
+- 自動でアプリのアップデートを確認します(既存：アプリの起動直後に一回だけ確認)
+- Folderの色と順番が変えられます
+- 記事を編集中に他の記事を読もうとしたら警告を出します (保存していない情報が消えることを防ぐため)
+- Notification アイコンを適切に直しました。
+- 一部フォームでのキー入力UIを改善しました。
+(EnterでSubmitできる: CreateNewFolder, Preferences/ManageFolder)
+- Tagを編集する時にTagを提案します

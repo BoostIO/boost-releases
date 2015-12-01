@@ -1,0 +1,22 @@
+{
+  "name": "boost-releases",
+  "version": "1.0.0",
+  "description": "## Changelog",
+  "main": "index.js",
+  "scripts": {
+    "md": "pen readme.md && open http://localhost:6060/readme.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoostIO/boost-releases.git"
+  },
+  "author": "Dick Choi <fluke8259@gmail.com> (http://rokt33r.github.io)",
+  "bugs": {
+    "url": "https://github.com/BoostIO/boost-releases/issues"
+  },
+  "homepage": "https://github.com/BoostIO/boost-releases#readme",
+  "devDependencies": {
+    "pen.md": "0.0.1"
+  }
+}

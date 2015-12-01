@@ -22,7 +22,7 @@
 - Emoji is also available.
 - Clicking cancel button when editing also causes show alert if there is a unsaved feature.
 
-# 0.4.1-beta.3 (2015/11/22)
+## 0.4.1-beta.3 (2015/11/22)
 
 - Fix some bugs when creating an post
 - Edit default article content

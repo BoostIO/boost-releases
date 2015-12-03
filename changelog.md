@@ -6,6 +6,14 @@
 > - [日本語](changelog-jp.md)
 > - [한국어](changelog-kr.md)
 
+## 0.4.4 (2015/12/4)
+
+- The value of search input will be escaped.
+- User name(Top-left) is editible now. check the preferences.
+
+> User name is not significant yet.
+> It will be needed when git repository based sharing is available.
+
 ## 0.4.3 (2015/12/1)
 
 - Discuss Link added.

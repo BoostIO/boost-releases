@@ -6,6 +6,11 @@
 > - [日本語](changelog-jp.md)
 > - [한국어](changelog-kr.md)
 
+## 0.4.5 (2015/12/8)
+
+- Markdown preview will be automatically scrolled to the position of cursor.
+- Style of markdown is improved.
+
 ## 0.4.4 (2015/12/4)
 
 - The value of search input will be escaped.

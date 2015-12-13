@@ -6,6 +6,14 @@
 > - [日本語](changelog-jp.md)
 > - [한국어](changelog-kr.md)
 
+## 0.4.6 (2015/12/14)
+
+- Sharing a post via public URL(valid for 7 days) is available
+- Hotkey added: Ctrl+p for move cursor up in CodeEditor.
+- Debug: Dragging in Finder window is available.
+- Debug: Search value of Finder window will be reset automatically.
+- Debug: Changing order of the folders will be saved correctly.
+
 ## 0.4.5 (2015/12/8)
 
 - Markdown preview will be automatically scrolled to the position of cursor.

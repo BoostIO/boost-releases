@@ -1,10 +1,23 @@
-# Boost app Changelog
+# Boostnote Changelog
 
 [back to readme.md](readme.md)
 
 > ### Other languages
 > - [日本語](changelog-jp.md)
 > - [한국어](changelog-kr.md)
+
+## 0.5.0 (2015/12/13)
+
+- Windows app has been released!
+- Boostnote has been codesigned properly. (both Windows and Mac app)
+- IPC between main window and finder window has been improved.
+
+---
+
+## 0.4.7 (2015/12/13)
+
+We relaunch our app. Boost, therefore, became **OBSOLETE**.
+Please re-install from [here](http://b00st.io)! Your data automatically moved to our new app.
 
 ## 0.4.6 (2015/12/14)
 

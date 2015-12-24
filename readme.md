@@ -2,7 +2,7 @@
 
 ## Download link
 
-Still working now...
+[Latest](https://github.com/BoostIO/boost-releases/releases/latest)
 
 ## Changelog
 

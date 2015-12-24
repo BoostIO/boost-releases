@@ -1,10 +1,23 @@
-# Boost app Changelog (日本語)
+# Boostnote Changelog (日本語)
 
 [back to readme.md](readme.md)
 
 > ### Other languages
 > - [English](changelog.md)
 > - [한국어](changelog-kr.md)
+
+## 0.5.0 (2015/12/13)
+
+- Windowsアプリが出ました。
+- アプリケーションがちゃんと署名されるようになりました。 (Windows, Mac どちも)
+- Main windowとFinder windowの間のIPCが改善されました。
+
+---
+
+## 0.4.7 (2015/12/13)
+
+アプリケーションを改めて公開しました。既存のアプリケーションのUpdateはこれが最後です。
+[ここで](http://b00st.io)　新しいアプリケーションを設置してください。データは何もしなくても引き継げます。
 
 ## 0.4.6 (2015/12/14)
 

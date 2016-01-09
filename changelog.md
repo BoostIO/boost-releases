@@ -6,6 +6,14 @@
 > - [日本語](changelog-jp.md)
 > - [한국어](changelog-kr.md)
 
+## 0.5.1 (2015/1/11)
+
+- Enhanced UI/UX (No more Edit / Save button)
+- CommonMark support(HTML available)
+- Latex block(`$$`, `$$$`)
+- Configurable Font/Indent style
+- Insensitive-case Search
+
 ## 0.5.0 (2015/12/13)
 
 - Windows app has been released!

@@ -6,6 +6,17 @@
 > - [English](changelog.md)
 > - [日本語](changelog-jp.md)
 
+## 0.5.2 (2015/1/18)
+
+- 왼쪽클릭으로 프리뷰/에디터 전환시 이상현상을 고쳤습니다.
+- 에디터내에 검색창(OSX: ⌘ + F, Win: Ctrl + F)을 열어도 프리뷰모드로 바뀌지 않게 되었습니다.
+- 오른쪽 클릭만으로 프리뷰/에디터 전환 옵션이 추가되었습니다.
+- 취소선 `~~`이 제대로 표시됩니다.
+- 체크박스 신택스 `[ ]`, `[x]`가 추가되었습니다.
+- 메인 윈도우를 여는 기본 단축키가 바뀌었습니다.(OSX: ⌘ + alt + L Wins: Windows + Alt + E)
+- Latex 블록안의 `\&` 가 `&amp` 로 변하지 않게 되었습니다.
+- Windows Only : 기본 폰트를 바꾸었습니다. (helvetica, arial, sans-serif -> meiryo, 'Microsoft Yahei', helvetica, arial, sans-serif)
+
 ## 0.5.1 (2015/1/11)
 
 - UI/UX 개량 (Edit / Save 버튼이 사라졌습니다.)

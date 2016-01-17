@@ -6,6 +6,17 @@
 > - [日本語](changelog-jp.md)
 > - [한국어](changelog-kr.md)
 
+## 0.5.2 (2015/1/18)
+
+- Unintended behavior of switching Preview/Editor when right clicking is fixed
+- Opening search form in editor(OSX: ⌘ + F, Win: Ctrl + F) won't fire switching preview.
+- 'Right click to toggle Preview/Editor' option will be added.
+- Strikethrough syntax `~~` won't be sanitized.
+- Checkbox syntax `[ ]`, `[x]` will be added.
+- Default key of global shortcut open-main-window will be changed.(OSX: ⌘ + alt + L Wins: Windows + Alt + E)
+- \& in Latex block won't be sanitized to &amp;
+- Windows Only : Base font-family will be changed(helvetica, arial, sans-serif -> meiryo, 'Microsoft Yahei', helvetica, arial, sans-serif)
+
 ## 0.5.1 (2015/1/11)
 
 - Enhanced UI/UX (No more Edit / Save button)

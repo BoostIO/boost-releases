@@ -6,6 +6,17 @@
 > - [English](changelog.md)
 > - [한국어](changelog-kr.md)
 
+## 0.5.2 (2015/1/18)
+
+- 左クリックでPreview/Editorの転換し動きがおかしくなる問題が治りました。
+- エディターの中に検索窓(OSX: ⌘ + F, Win: Ctrl + F)を開いてもPreviewモードの変わらないようになりました。
+- 右クリックのみでPreview/Editor転換Optionが追加されました。
+- 取り消し線 `~~`がちゃんと表示されます。
+- チェックボックスのシンタクス `[ ]`、`[x]`が追加されました。
+- メインウィンドウを開く基本ショットカットキーがかわりました。(OSX: ⌘ + alt + L Wins: Windows + Alt + E)
+- Latex ブロックの `\&` が `&amp` にならないようになりました。
+- Windows Only : 基本フォントを変えました。 (helvetica, arial, sans-serif -> meiryo, 'Microsoft Yahei', helvetica, arial, sans-serif)
+
 ## 0.5.1 (2015/1/11)
 
 - UI/UX 改善 (Edit / Save ボタンはもうありません)

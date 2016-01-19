@@ -6,6 +6,12 @@
 > - [日本語](changelog-jp.md)
 > - [한국어](changelog-kr.md)
 
+## 0.5.3 (2015/1/19)
+
+- Fixed. Switching preview with ESC key when set switch preview on right click doesn't work well.
+- Fixed. Switching preview/editor which doesn't work well after updating v0.5.2.
+- Strange behavior of Preferences when setting shortcuts is fixed.
+
 ## 0.5.2 (2015/1/18)
 
 - Unintended behavior of switching Preview/Editor when right clicking is fixed

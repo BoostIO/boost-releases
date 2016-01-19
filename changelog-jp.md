@@ -6,6 +6,12 @@
 > - [English](changelog.md)
 > - [한국어](changelog-kr.md)
 
+## 0.5.2 (2015/1/19)
+
+- 右クリックでPreview/Editor転換を設定した時に、ESCキーでPreviewが見れない問題が治りました。
+- Preview/Editorの転換がv0.5.2からちゃんとできない問題が治りました。
+- Preferencesからショットカットキーを設定した時の警告をちゃんと表示するようになりました。
+
 ## 0.5.2 (2015/1/18)
 
 - 左クリックでPreview/Editorの転換し動きがおかしくなる問題が治りました。

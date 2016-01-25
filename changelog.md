@@ -6,6 +6,13 @@
 > - [日本語](changelog-jp.md)
 > - [한국어](changelog-kr.md)
 
+## 0.5.4 (2015/1/25)
+
+- HTML code in code fence won't be sanitized.
+- The bug of Ace editor, command ctrl+e on Editor(go to line end),  is fixed.
+- Markdown style is improved.
+- Anchor with image works well now.
+
 ## 0.5.3 (2015/1/19)
 
 - Fixed. Switching preview with ESC key when set switch preview on right click doesn't work well.

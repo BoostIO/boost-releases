@@ -2,9 +2,14 @@
 
 [back to readme.md](readme.md)
 
-> ### Other languages
-> - [日本語](changelog-jp.md)
-> - [한국어](changelog-kr.md)
+## 0.5.5 (2015/3/16)
+
+- Focus search input when main-window called by hotkey
+- Bump up Electron to v0.36.11
+- Editor font family also applied title input
+- Zoom factor can be configurable by Ctrl+WheelScroll(Windows, Linux only)
+- Fix emacs key binding of Ace editor(Ctrl-a, Ctrl-p)
+- Long line of tags in Post list will be wrapped
 
 ## 0.5.4 (2015/1/25)
 

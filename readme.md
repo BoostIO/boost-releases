@@ -6,6 +6,11 @@
 
 ## Changelog
 
+## 0.5.6 (2015/3/28)
+
+- add announcement about OSS
+- replace contact form with contact link
+
 ### 0.5.5 (2015/3/16)
 
 - Focus search input when main-window called by hotkey

@@ -6,12 +6,21 @@
 
 ## Changelog
 
-## 0.5.6 (2015/3/28)
+## 0.5.8 (2015/4/3)
+
+- Fix editor selection bug
+- Fix file drop bug
+
+## 0.5.7 (2016/3/28)
+
+- modify contact links
+
+## 0.5.6 (2016/3/28)
 
 - add announcement about OSS
 - replace contact form with contact link
 
-### 0.5.5 (2015/3/16)
+### 0.5.5 (2016/3/16)
 
 - Focus search input when main-window called by hotkey
 - Bump up Electron to v0.36.11
@@ -20,20 +29,20 @@
 - Fix emacs key binding of Ace editor(Ctrl-a, Ctrl-p)
 - Long line of tags in Post list will be wrapped
 
-### 0.5.4 (2015/1/25)
+### 0.5.4 (2016/1/25)
 
 - HTML code in code fence won't be sanitized.
 - The bug of Ace editor, command ctrl+e on Editor(go to line end),  is fixed.
 - Markdown style is improved.
 - Anchor with image works well now.
 
-### 0.5.3 (2015/1/19)
+### 0.5.3 (2016/1/19)
 
 - Fixed. Switching preview with ESC key when set switch preview on right click doesn't work well.
 - Fixed. Switching preview/editor which doesn't work well after updating v0.5.2.
 - Strange behavior of Preferences when setting shortcuts is fixed.
 
-### 0.5.2 (2015/1/18)
+### 0.5.2 (2016/1/18)
 
 - Unintended behavior of switching Preview/Editor when right clicking is fixed
 - Opening search form in editor(OSX: ⌘ + F, Win: Ctrl + F) won't fire switching preview.
@@ -44,7 +53,7 @@
 - \& in Latex block won't be sanitized to &amp;
 - Windows Only : Base font-family will be changed(helvetica, arial, sans-serif -> meiryo, 'Microsoft Yahei', helvetica, arial, sans-serif)
 
-### 0.5.1 (2015/1/11)
+### 0.5.1 (2016/1/11)
 
 - Enhanced UI/UX (No more Edit / Save button)
 - CommonMark support(HTML available)

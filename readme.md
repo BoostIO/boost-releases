@@ -6,6 +6,11 @@
 
 ## Changelog
 
+## 0.5.9 (2015/4/11)
+
+- App will quit when main-window closed.
+- 'There is no newer version' alert won't show anymore.
+
 ## 0.5.8 (2015/4/3)
 
 - Fix editor selection bug

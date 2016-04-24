@@ -6,6 +6,11 @@
 
 ## Changelog
 
+## 0.5.10 (2015/4/25)
+
+- Dark theme.
+- Editor themes & Preview codeblock themes.
+
 ## 0.5.9 (2015/4/11)
 
 - App will quit when main-window closed.

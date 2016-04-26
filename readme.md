@@ -6,6 +6,11 @@
 
 ## Changelog
 
+## 0.5.11 (2015/4/25)
+
+- Enable Finder on Cinnamon.
+- Add missing features of Dark theme.
+
 ## 0.5.10 (2015/4/25)
 
 - Dark theme.

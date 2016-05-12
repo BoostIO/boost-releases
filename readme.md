@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.5.12 (2015/5/13)
+
+- Line number for code block in Markdown note
+
 ## 0.5.11 (2015/4/25)
 
 - Enable Finder on Cinnamon.

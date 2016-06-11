@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.5.13 (2015/6/12)
+
+- Scroll bar will be hidden when modal opens
+
 ## 0.5.12 (2015/5/13)
 
 - Line number for code block in Markdown note

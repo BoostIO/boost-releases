@@ -6,6 +6,14 @@
 
 ## Changelog
 
+## 0.6.0 (2015/6/23)
+
+- Renew app,
+- Several features are temporary disabled.(within a week)
+  - Finder
+  - Dark theme
+  - Post exporting
+
 ## 0.5.13 (2015/6/12)
 
 - Scroll bar will be hidden when modal opens

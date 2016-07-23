@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.6.1 (2015/6/23)
+
+- Hotfix: fix endless loading when user is a newcomer.
+
 ## 0.6.0 (2015/6/23)
 
 - Renew app,

@@ -6,6 +6,13 @@
 
 ## Changelog
 
+## 0.6.2 (2015/6/28)
+
+- Improve performance: debounce dispatch
+- Footnote
+- GFM style checkbox
+- Add tooltips to buttons
+
 ## 0.6.1 (2015/6/23)
 
 - Hotfix: fix endless loading when user is a newcomer.

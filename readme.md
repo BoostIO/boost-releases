@@ -6,18 +6,28 @@
 
 ## Changelog
 
-## 0.6.2 (2015/6/28)
+## 0.6.3 (2016/8/14)
+
+- Fix error when closing main window on Ubuntu #57
+- Finder
+- Dark theme (UI customization will be embeded the next update)
+- Folder color picker by @dotcs #77
+- Fix layout bug #69
+- expand/folder sidebar
+- Markdown snippet in Snippet note can be rendered just like Markdown note
+
+## 0.6.2 (2016/7/28)
 
 - Improve performance: debounce dispatch
 - Footnote
 - GFM style checkbox
 - Add tooltips to buttons
 
-## 0.6.1 (2015/6/23)
+## 0.6.1 (2016/7/23)
 
 - Hotfix: fix endless loading when user is a newcomer.
 
-## 0.6.0 (2015/6/23)
+## 0.6.0 (2016/7/23)
 
 - Renew app,
 - Several features are temporary disabled.(within a week)
@@ -25,30 +35,30 @@
   - Dark theme
   - Post exporting
 
-## 0.5.13 (2015/6/12)
+## 0.5.13 (2016/6/12)
 
 - Scroll bar will be hidden when modal opens
 
-## 0.5.12 (2015/5/13)
+## 0.5.12 (2016/5/13)
 
 - Line number for code block in Markdown note
 
-## 0.5.11 (2015/4/25)
+## 0.5.11 (2016/4/25)
 
 - Enable Finder on Cinnamon.
 - Add missing features of Dark theme.
 
-## 0.5.10 (2015/4/25)
+## 0.5.10 (2016/4/25)
 
 - Dark theme.
 - Editor themes & Preview codeblock themes.
 
-## 0.5.9 (2015/4/11)
+## 0.5.9 (2016/4/11)
 
 - App will quit when main-window closed.
 - 'There is no newer version' alert won't show anymore.
 
-## 0.5.8 (2015/4/3)
+## 0.5.8 (2016/4/3)
 
 - Fix editor selection bug
 - Fix file drop bug

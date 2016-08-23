@@ -6,6 +6,11 @@
 
 ## Changelog
 
+## 0.6.4 (2016/8/23)
+
+- App doesn't quit properly on Windows and Linux (with Cinnamon)
+- Syntax mode will be automatically detected and set by filename.
+
 ## 0.6.3 (2016/8/14)
 
 - Fix error when closing main window on Ubuntu #57

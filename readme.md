@@ -6,6 +6,19 @@
 
 ## Changelog
 
+## 0.6.5 (2016/9/10)
+
+- Infinite scroll
+- Confirm on blur when editing color and name of folder.
+- Default note option(Snippet/Markdown/Always ask)
+- Context menu for notes(`Delete Note`)
+- Show dialog when deleting snippet #107
+- Improvement folder select #106
+- Resizable SideNav
+- Strip markdown syntax from title
+- Using Immutable
+- Refactor for dataApi
+
 ## 0.6.4 (2016/8/23)
 
 - App doesn't quit properly on Windows and Linux (with Cinnamon)

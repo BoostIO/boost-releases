@@ -6,6 +6,11 @@
 
 ## Changelog
 
+## 0.6.6 (2016/9/20)
+
+- Attempt to recover broken storages
+- Fix renaming storage name bug
+
 ## 0.6.5 (2016/9/10)
 
 - Infinite scroll

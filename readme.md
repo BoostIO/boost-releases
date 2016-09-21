@@ -6,6 +6,13 @@
 
 ## Changelog
 
+## 0.6.7 (2016/9/21)
+
+- Fix dataApi bugs
+  - Line separator(\u2028) characters doesn't be escaped when stringifying.
+  - The app tries to parse `.DS_Store` as a note.
+- Fix segfaults error when closing app on Ubuntu
+
 ## 0.6.6 (2016/9/20)
 
 - Attempt to recover broken storages

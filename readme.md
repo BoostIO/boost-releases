@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.6.8 (2016/9/22)
+
+- Fix data parsing error (\u2028)
+
 ## 0.6.7 (2016/9/21)
 
 - Fix dataApi bugs

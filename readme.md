@@ -6,6 +6,14 @@
 
 ## Changelog
 
+## 0.7.0 (2016/10/17)
+
+- Replace Ace editor with Codemirror
+- Improve UI
+- Fix minor bugs fix
+  - Crush on deleting empty folder
+  - Finder shows wrong detail when search keyword is empty.
+
 ## 0.6.8 (2016/9/22)
 
 - Fix data parsing error (\u2028)

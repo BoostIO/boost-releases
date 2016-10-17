@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.7.1 (2016/10/18)
+
+- Fix minor design bugs.
+
 ## 0.7.0 (2016/10/17)
 
 - Replace Ace editor with Codemirror

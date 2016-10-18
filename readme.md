@@ -6,6 +6,11 @@
 
 ## Changelog
 
+
+## 0.7.2 (2016/10/18)
+
+- Fix editor bug when using Japanese IME Keyboard.
+
 ## 0.7.1 (2016/10/18)
 
 - Fix minor design bugs.

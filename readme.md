@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.7.4 (2016/12/13)
+
+- Fix error on modal window.
+
 ## 0.7.3 (2016/12/13)
 
 - Remove menu bar on windows.

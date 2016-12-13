@@ -6,6 +6,13 @@
 
 ## Changelog
 
+## 0.7.3 (2016/12/13)
+
+- Remove menu bar on windows.
+- Improved error messaging.
+- Fix syntax error when compiling/running Boostnote.
+- Minor accelerator updates for macOS.
+- Adding menu back in temporarily to fix shortcuts.
 
 ## 0.7.2 (2016/10/18)
 

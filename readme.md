@@ -6,6 +6,14 @@
 
 ## Changelog
 
+## 0.8.0 (2017/1/3)
+
+- Renew the design.
+- Remove butto to share the note.
+- Remove controll context button on top bar.
+- Renew the logo.
+- Remove folder selecting on note detail.
+
 ## 0.7.4 (2016/12/13)
 
 - Fix error on modal window.

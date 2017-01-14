@@ -6,6 +6,18 @@
 
 ## Changelog
 
+## 0.8.1 (2017/1/14)
+
+- Renew the URL of official page.
+- Add selector of the folder on note detail.
+- Remember window size when quit Boostnote.
+- Vim keymaps.
+- Remove dependencies of `oh-my-cdn`.
+- Update information of development.
+- Settings for TravisCI and ESLint.
+- Fix code theme not found error.
+- Design: number of the folder.
+
 ## 0.8.0 (2017/1/3)
 
 - Renew the design.

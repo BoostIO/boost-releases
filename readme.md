@@ -8,7 +8,7 @@
 
 ## 0.8.2 (2017/1/15)
 
-- Fix the bug which cannot open finder with using HotKey.
+- Fix the bug which cannot open finder with using HotKey on macOS.
 
 ## 0.8.1 (2017/1/14)
 

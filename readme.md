@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.8.2 (2017/1/15)
+
+- Fix the bug which cannot open finder with using HotKey.
+
 ## 0.8.1 (2017/1/14)
 
 - Renew the URL of official page.

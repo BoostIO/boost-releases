@@ -6,6 +6,16 @@
 
 ## Changelog
 
+## 0.8.3 (2017/1/21)
+
+- Some new shortcuts.
+- Exporting markdown note as txt/md.
+- More zoom options (140-200%).
+- Dropping images into CodeEditor.
+- Bug occurs with updating.
+- Fixes syntax hilight of inline code on Preview.
+- Some markup.
+
 ## 0.8.2 (2017/1/15)
 
 - Fix the bug which cannot open finder with using HotKey on macOS.

@@ -6,6 +6,12 @@
 
 ## Changelog
 
+## 0.8.4 (2017/1/28)
+
+- Change shortcut key to blur MarkdownNote.
+- Fix design.
+- Markdown can't edit under specific state.
+
 ## 0.8.3 (2017/1/21)
 
 - Some new shortcuts.

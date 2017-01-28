@@ -1,8 +1,7 @@
 {
   "name": "boost-releases",
-  "version": "1.0.0",
   "description": "## Changelog",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "md": "pen readme.md && open http://localhost:6060/readme.md",
     "test": "echo \"Error: no test specified\" && exit 1"

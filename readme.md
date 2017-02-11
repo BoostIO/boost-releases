@@ -6,6 +6,11 @@
 
 ## Changelog
 
+## 0.8.5 (2017/2/11)
+- Fix markdown preview.
+- Fix the bug which cannot open finder with using HotKey on Windows.
+- Fix App icon on Windows 10 taskbar.
+
 ## 0.8.4 (2017/1/28)
 
 - Change shortcut key to blur MarkdownNote.

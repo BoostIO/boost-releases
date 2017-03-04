@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.8.6 (2017/3/4)
+- Image drag fix.
+- Fix font color for dark theme rename folder modal.
+
 ## 0.8.5 (2017/2/11)
 - Fix markdown preview.
 - Fix the bug which cannot open finder with using HotKey on Windows.

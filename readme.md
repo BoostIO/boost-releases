@@ -6,6 +6,14 @@
 
 ## Changelog
 
+## 0.8.7 (2017/3/20)
+
+- Changed the tray icon when mouse on.
+- The lock icon on markdown note.
+- Covert dragged svg into link literal of markdown.
+- Ignore `#` in the code block
+- Fix the bug for deleting snippet tab.
+
 ## 0.8.6 (2017/3/4)
 - Image drag fix.
 - Fix font color for dark theme rename folder modal.

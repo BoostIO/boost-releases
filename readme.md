@@ -6,6 +6,31 @@
 
 ## Changelog
 
+## 0.8.8 (2017/4/22)
+
+## Features
+
+- Design update https://github.com/BoostIO/Boostnote/pull/424
+- Improve trash button https://github.com/BoostIO/Boostnote/pull/340
+- Remove `ctrl+B` shortcut key https://github.com/BoostIO/Boostnote/pull/399
+- Write mark automatically when writing list on Markdown https://github.com/BoostIO/Boostnote/pull/425
+- Double click on tab to rename on snippet note https://github.com/BoostIO/Boostnote/pull/453
+- Fix behavior of the shortcut key to make text bold on Markdown https://github.com/BoostIO/Boostnote/pull/469
+- Add syntax highlight theme preview https://github.com/BoostIO/Boostnote/pull/290
+- Remove esc button on initial modal window https://github.com/BoostIO/Boostnote/pull/474
+- [macOS]Fix text on menu bar https://github.com/BoostIO/Boostnote/pull/468
+
+## Bug Fix
+
+- Fixed Snippet tabs overwriting other tabs when closed https://github.com/BoostIO/Boostnote/pull/352
+- The problem with closing app when fullscreen mode https://github.com/BoostIO/Boostnote/pull/349
+
+## Development
+
+- Fix config of ESLint https://github.com/BoostIO/Boostnote/pull/317
+- Add npm script `dev-start` https://github.com/BoostIO/Boostnote/pull/357
+- Start using yarn 🐱  https://github.com/BoostIO/Boostnote/pull/393
+
 ## 0.8.7 (2017/3/20)
 
 - Changed the tray icon when mouse on.

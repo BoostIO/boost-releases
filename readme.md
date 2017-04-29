@@ -6,6 +6,22 @@
 
 ## Changelog
 
+## 0.8.9 (2017/4/29)
+
+## Features
+
+- Improve wordings. https://github.com/BoostIO/Boostnote/pull/480/files
+- Added `Shift` on Hints. https://github.com/BoostIO/Boostnote/pull/488
+- Fix md viewer line breaks when copying. https://github.com/BoostIO/Boostnote/pull/512
+- Add star display on note list. https://github.com/BoostIO/Boostnote/pull/522
+- Change design of sidebar. https://github.com/BoostIO/Boostnote/pull/520
+
+## Bug Fix
+
+- Fix package name. https://github.com/BoostIO/Boostnote/pull/477
+- Fix a shortcut for deletion. https://github.com/BoostIO/Boostnote/pull/484
+- [windows]Scrollbar no longer appears above modal. https://github.com/BoostIO/Boostnote/pull/513
+
 ## 0.8.8 (2017/4/22)
 
 ## Features

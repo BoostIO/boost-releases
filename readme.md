@@ -6,6 +6,31 @@
 
 ## Changelog
 
+## 0.8.10 (2017/6/13)
+
+## Features
+- Move note between folders https://github.com/BoostIO/Boostnote/pull/374
+- display percentage of achievement of todo in markdown https://github.com/BoostIO/Boostnote/pull/557
+- If there is no tag, narrow the width of NoteList. https://github.com/BoostIO/Boostnote/pull/594
+- #595 - Resize an image with markdown https://github.com/BoostIO/Boostnote/pull/598
+- change search ux https://github.com/BoostIO/Boostnote/pull/600
+- Copy clipboard button for markdown code blocks https://github.com/BoostIO/Boostnote/pull/603
+- I improved the dark theme. https://github.com/BoostIO/Boostnote/pull/605
+- Feature amazon mobile analytics https://github.com/BoostIO/Boostnote/pull/620
+- Add emacs keymap https://github.com/BoostIO/Boostnote/pull/623
+- improve searchTextBox UX https://github.com/BoostIO/Boostnote/pull/628
+- Handling pull 602 https://github.com/BoostIO/Boostnote/pull/632
+
+## Bug Fix
+- Fix incorrect tag completion in code block https://github.com/BoostIO/Boostnote/pull/341
+- fix the bug when using markdown syntax h1 https://github.com/BoostIO/Boostnote/pull/510
+- Revamp handling of multiple key press https://github.com/BoostIO/Boostnote/pull/545
+- Fix for #535: https://github.com/BoostIO/Boostnote/pull/549
+- Fix task bar UI https://github.com/BoostIO/Boostnote/pull/587
+- Fix copy button layout https://github.com/BoostIO/Boostnote/pull/622
+- Fix a bug which is not showing dialog when user tries to export a snippet https://github.com/BoostIO/Boostnote/pull/626
+- Fix a rendering bug https://github.com/BoostIO/Boostnote/pull/633
+
 ## 0.8.9 (2017/4/29)
 
 ## Features

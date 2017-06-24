@@ -6,6 +6,16 @@
 
 ## Changelog
 
+## 0.8.11 (2017/6/24)
+
+## Features
+- Add importer which imports files from .md/.txt https://github.com/BoostIO/Boostnote/pull/325
+- Make Ctrl-C copy https://github.com/BoostIO/Boostnote/pull/649
+
+## Bug Fix
+- Rename `TodolistPercentage.js` to `TodoListPercentage.js`. https://github.com/BoostIO/Boostnote/pull/645
+- Fix not to show scroll bar when full screen mode in Windows https://github.com/BoostIO/Boostnote/pull/658
+
 ## 0.8.10 (2017/6/13)
 
 ## Features

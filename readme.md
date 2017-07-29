@@ -6,6 +6,45 @@
 
 ## Changelog
 
+## 0.8.12 (2017/7/29)
+
+## Features
+- Add trash can https://github.com/BoostIO/Boostnote/pull/297
+- Randomize the image name when it's dropped https://github.com/BoostIO/Boostnote/pull/667
+- Componentnize TrashButton https://github.com/BoostIO/Boostnote/pull/672
+- Edit initial files https://github.com/BoostIO/Boostnote/pull/681
+- Change “Menu” to “Preferences”, and icon.https://github.com/BoostIO/Boostnote/pull/684
+- Add search-box https://github.com/BoostIO/Boostnote/pull/686
+- Remove the context menu for deletion https://github.com/BoostIO/Boostnote/pull/688
+- Fix layout https://github.com/BoostIO/Boostnote/pull/690
+- Add info button https://github.com/BoostIO/Boostnote/pull/692
+- Feature links among notes https://github.com/BoostIO/Boostnote/pull/693
+- Replace cm searchbox to official search addon https://github.com/BoostIO/Boostnote/pull/696
+- Update layout https://github.com/BoostIO/Boostnote/pull/698
+- Change the keymap of Ctrl-U to Ctrl-K https://github.com/BoostIO/Boostnote/pull/706
+- Remove a dialogbox from onTrashButtonClick https://github.com/BoostIO/Boostnote/pull/707
+- Change noteHash to noteLink in the input in InfoPanel https://github.com/BoostIO/Boostnote/pull/708
+- Add exports to infoPanel https://github.com/BoostIO/Boostnote/pull/709
+- Change to create a new directory when storage/images does not exist https://github.com/BoostIO/Boostnote/pull/710
+- Add checkbox for ama https://github.com/BoostIO/Boostnote/pull/715
+- Change ["title"](note-hash) to [the exact title](note-hash) https://github.com/BoostIO/Boostnote/pull/716 
+- Fix typos Dynamit to Dynamic https://github.com/BoostIO/Boostnote/pull/718
+- Update readme https://github.com/BoostIO/Boostnote/pull/721
+- Fix layout https://github.com/BoostIO/Boostnote/pull/722
+- Fix typo in InfoTab https://github.com/BoostIO/Boostnote/pull/723
+- Make image path relative https://github.com/BoostIO/Boostnote/pull/730
+- Fix layout https://github.com/BoostIO/Boostnote/pull/736
+
+## Bug Fix
+- Fix an error on click event https://github.com/BoostIO/Boostnote/pull/695
+- Fix a bug on click https://github.com/BoostIO/Boostnote/pull/717
+- Fix inseration position https://github.com/BoostIO/Boostnote/pull/719
+- Goodbye Ctrl-G https://github.com/BoostIO/Boostnote/pull/720
+- Fix hidden button https://github.com/BoostIO/Boostnote/pull/724
+- iss #155 Change defaut font on windows https://github.com/BoostIO/Boostnote/pull/726
+- iss #727 fix incorrect encoding in link https://github.com/BoostIO/Boostnote/pull/728
+- Make it work on windows https://github.com/BoostIO/Boostnote/pull/732
+
 ## 0.8.11 (2017/6/24)
 
 ## Features

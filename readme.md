@@ -6,6 +6,26 @@
 
 ## Changelog
 
+## 0.8.13 (2017/8/10)
+
+## Features
+- Fix layout #736
+- Change to work ctrl-e and ctrl-w in RIGHTCLICK #753 
+- Add Print #754 
+- iss #758 Add InfoButton and InfoPanel in Trash #765 
+- Context search #766 
+- Add boostnoterc revival #783 
+
+## Bug Fix
+- Change order for AMA event #749 
+- Fix noteCount on a note trashed #764 
+- Fixes typo in welcome screen #767 
+- Fixed InfoPanel layout in Trash #768 
+- Finder UI Fix (My Storage positioning) #777 
+- Add Lato font-face definition to main.html #779 
+- Add storageKey to MarkdownEditor #780 
+- Update application wording #782 
+
 ## 0.8.12 (2017/7/29)
 
 ## Features

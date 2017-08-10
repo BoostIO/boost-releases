@@ -16,7 +16,7 @@
 - Context search #766 
 - Add boostnoterc revival #783 
 
-## Bug fixes
+## Bug Fix
 - Change order for AMA event #749 
 - Fix noteCount on a note trashed #764 
 - Fixes typo in welcome screen #767 

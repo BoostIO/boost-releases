@@ -6,6 +6,15 @@
 
 ## Changelog
 
+## 0.8.14 (2017/8/12)
+
+# Features
+- none
+
+# Bug Fix
+- Fix configmanager #787
+- Make RcParser ignore errors at JSON.parse() #789
+
 ## 0.8.13 (2017/8/10)
 
 ## Features

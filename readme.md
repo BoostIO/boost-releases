@@ -6,6 +6,31 @@
 
 ## Changelog
 
+## 0.8.15 (2017/9/23)
+
+# Features
+- Add file drop on NoteList https://github.com/BoostIO/Boostnote/pull/793
+- Support for extended table markdown syntax https://github.com/BoostIO/Boostnote/pull/811
+- Add markdown-it-named-headers and adjust to use Japanese or Chinese https://github.com/BoostIO/Boostnote/pull/812
+- Add wordcount and lettercount to InfoPanel https://github.com/BoostIO/Boostnote/pull/815
+- Make pasting an image in CodeEditor work https://github.com/BoostIO/Boostnote/pull/818
+- Add RealtimeNotification https://github.com/BoostIO/Boostnote/pull/877
+- iss #832 Make :q work in vim mode https://github.com/BoostIO/Boostnote/pull/885
+- Add link for cloud integration https://github.com/BoostIO/Boostnote/pull/889
+
+# Bug Fix
+- Fix note creation in All Notes https://github.com/BoostIO/Boostnote/pull/803
+- Fix typo regarding fullscreen https://github.com/BoostIO/Boostnote/pull/805
+- Fix app name and icon on linux https://github.com/BoostIO/Boostnote/pull/806
+- iss #809 normalize text works only in img tag https://github.com/BoostIO/Boostnote/pull/816
+- Fix image insesration problem https://github.com/BoostIO/Boostnote/pull/820
+
+# Dev
+- Componentnize NewNoteButton https://github.com/BoostIO/Boostnote/pull/800
+- Add eslint plugin react https://github.com/BoostIO/Boostnote/pull/801
+- Fix by eslint react https://github.com/BoostIO/Boostnote/pull/802
+- Add to specify npm version https://github.com/BoostIO/Boostnote/pull/813
+
 ## 0.8.14 (2017/8/12)
 
 # Features

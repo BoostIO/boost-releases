@@ -6,6 +6,53 @@
 
 ## Changelog
 
+## 0.8.16(2017/10/28)
+
+## Feature
+- Feature rearrange storage #853
+- Allow users to disable “Saved to clipboard” notification. #897
+- Feature tag area #922
+- Add notelist right click(context menu) and delete note #943
+- Support for solarized dark and light themes #948
+- Improve searching #954
+- Pin to top #956
+- Add keyboard markdown #1019
+
+## Fix
+- Fix grammer in InfoTab #895
+- Align notification bar with the navigation bar #906
+- Place notifications on the right side of the notification bar #911
+- change grand to grunt #915
+- Fix “borde-box” typo #934
+- Sean/improve english #937
+- Grammar and capitalization fix #951
+- Change to apply font with single quotations #955
+- Fix to create imageDir if it does not exist #961
+- Fixed button protrustion when creating a new folder. #969
+- Replace pdf to print #972
+- Fix URIs decoded with mdurl #978
+- Fix layout #979
+- Fix #982: Tag list cannot be scroll #988
+- Grammar fix #992
+- Adjust tooltip (#963) #994
+- Fix side nav style #999
+- start point of absolute to the right. #1000
+- Fix typo in “Markdown” #1004
+- Adjust notification HotKeyTab #1010
+- Change the tooltip text of the lock button for easy to understand what its role #1014
+- ClearMessage notification HotKeyTab #1016
+- Change crowdfunding Bountysource to OpenCollective. #1017
+- Make <kbd> on keyboard introduction #1020
+
+## Dev
+- Add recent translated korean developement & debug docs #941
+- Add try/catch logic to recording of analytics events #950
+- Fix: “Uncaught TypeError: Cannot read property ‘className’ of null” #968
+- Add getTargetIndex() and replece them #973
+- Remove unused vars #984
+- Snapcraft #986
+- Add ama event for snippet lang #1002
+
 ## 0.8.15 (2017/9/23)
 
 # Features

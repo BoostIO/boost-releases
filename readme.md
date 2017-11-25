@@ -6,6 +6,41 @@
 
 ## Changelog
 
+## 0.8.17(2017/11/25)
+
+# Feature
+- Fix note title https://github.com/BoostIO/Boostnote/pull/398
+- Adjust Note in Uitab && Add message notification for data policy save https://github.com/BoostIO/Boostnote/pull/1025
+- Include each note only once when sorting by pin https://github.com/BoostIO/Boostnote/pull/1033 
+- added the context menu to the list view https://github.com/BoostIO/Boostnote/pull/1036
+- Fix enabling no focus right click pin to top and show adequate context menu https://github.com/BoostIO/Boostnote/pull/1038
+- make ZZ work in vim mode https://github.com/BoostIO/Boostnote/pull/1041
+- added shortcut ctrl+q for quit and quit the app when using the Windows Close button https://github.com/BoostIO/Boostnote/pull/1043
+- only make the selected tag active https://github.com/BoostIO/Boostnote/pull/1049
+- Add counter on note filter https://github.com/BoostIO/Boostnote/pull/1052
+- Add PlantUML support https://github.com/BoostIO/Boostnote/pull/1062
+- enable importing file to empty folder https://github.com/BoostIO/Boostnote/pull/1064
+- [Improvement] — Option for preferences in menus (916 & 1074) https://github.com/BoostIO/Boostnote/pull/1093
+- Change default theme and add white https://github.com/BoostIO/Boostnote/pull/1108
+- Add simple addon for CodeMirror https://github.com/BoostIO/Boostnote/pull/1126
+- Add task item to indent adjustment target for list https://github.com/BoostIO/Boostnote/pull/1127
+- Add community on tab in preferences https://github.com/BoostIO/Boostnote/pull/1133
+- Add facebook group url to infotab https://github.com/BoostIO/Boostnote/pull/1135
+- Icon Design Update https://github.com/BoostIO/Boostnote/pull/1138
+- Improve the initial content https://github.com/BoostIO/Boostnote/pull/1153
+- Update note design https://github.com/BoostIO/Boostnote/pull/1161
+# Bug fixes
+- only decode the url when the content of the link is a string https://github.com/BoostIO/Boostnote/pull/1042
+- fix solarized dark/light code block thema bug https://github.com/BoostIO/Boostnote/pull/1061
+- solarized light/dark bug fix https://github.com/BoostIO/Boostnote/pull/1081
+- replace selection with pasted image https://github.com/BoostIO/Boostnote/pull/1119
+- Fix windows scrolling bug https://github.com/BoostIO/Boostnote/pull/1149
+# Dev
+- Fix grunt pre-build error https://github.com/BoostIO/Boostnote/pull/1104
+- electron-prebuilt is obsolete. use latest electron instead https://github.com/BoostIO/Boostnote/pull/1105
+- Removed mixpanel https://github.com/BoostIO/Boostnote/pull/1114
+- Updated markdown-it-kbd to 1.1.1 from 1.1.0 https://github.com/BoostIO/Boostnote/pull/115
+
 ## 0.8.16(2017/10/28)
 
 ## Feature

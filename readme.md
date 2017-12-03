@@ -6,6 +6,29 @@
 
 ## Changelog
 
+## 0.8.18(2017/12/03)
+Features
+- Fix note title https://github.com/BoostIO/Boostnote/pull/398
+- store correct window size on Linux https://github.com/BoostIO/Boostnote/pull/1144
+- Feature multiselect notes delete and move to another folder https://github.com/BoostIO/Boostnote/pull/1070
+- fix anykey can close the initmodal window issue https://github.com/BoostIO/Boostnote/pull/1176
+- Fix Margin at Note Detail https://github.com/BoostIO/Boostnote/pull/1179
+- SideNavItem: add background when hover https://github.com/BoostIO/Boostnote/pull/1180
+- Fix layout at initial modal https://github.com/BoostIO/Boostnote/pull/1197
+- confirm tag at onBlur event https://github.com/BoostIO/Boostnote/pull/1211
+- Correction Notification top-left https://github.com/BoostIO/Boostnote/pull/1212
+- Add newsletter link to preference modal https://github.com/BoostIO/Boostnote/pull/1226
+
+Bug fix
+- Fix surrogate pairs garbling on folded SideNav https://github.com/BoostIO/Boostnote/pull/1184
+- Fix folded layout https://github.com/BoostIO/Boostnote/pull/1202
+- Fixbug react code mirror https://github.com/BoostIO/Boostnote/pull/1218
+- Fix finder layout https://github.com/BoostIO/Boostnote/pull/1225
+
+Dev
+- React.PropTypes is deprecated from React 15.5 https://github.com/BoostIO/Boostnote/pull/1113
+- fixed eslint warnings https://github.com/BoostIO/Boostnote/pull/1170
+
 ## 0.8.17(2017/11/25)
 
 # Feature

@@ -6,6 +6,29 @@
 
 ## Changelog
 
+## 0.8.19(2017/12/23)
+Feature
+- Solarized Dark Theme https://github.com/BoostIO/Boostnote/pull/1293
+- Markdown Live Preview https://github.com/BoostIO/Boostnote/pull/1307
+- Scroll Past End https://github.com/BoostIO/Boostnote/pull/1267
+- Imroved the Dark Theme https://github.com/BoostIO/Boostnote/pull/1268
+- Add Pin to NoteItemSimple https://github.com/BoostIO/Boostnote/pull/1275
+- added ctrl+, shortcut to preference modal https://github.com/BoostIO/Boostnote/pull/1257
+- Add custom LaTeX delimiters to preferences https://github.com/BoostIO/Boostnote/pull/1221
+- Add a specific style for checked inputs https://github.com/BoostIO/Boostnote/pull/1194
+
+Fix
+- Fix link to Cloud-Syncing https://github.com/BoostIO/Boostnote/pull/1272
+- Fixed regex to stop [anytingx] being counted as a checkmark https://github.com/BoostIO/Boostnote/pull/1287
+- fixed import of new notes https://github.com/BoostIO/Boostnote/pull/1258
+- Fix the folded side bar layout https://github.com/BoostIO/Boostnote/pull/1254
+- fixed incorrect fontFamily for multiple fonts https://github.com/BoostIO/Boostnote/pull/1244
+- fixed global styles https://github.com/BoostIO/Boostnote/pull/1241
+- Added border radius & background color to NavToggleButton https://github.com/BoostIO/Boostnote/pull/1236
+- Correctly link to moved markdown helper https://github.com/BoostIO/Boostnote/pull/1227
+- Use existing file metadata for created and modified dates https://github.com/BoostIO/Boostnote/pull/1217
+- Fix note title https://github.com/BoostIO/Boostnote/pull/398
+
 ## 0.8.18(2017/12/03)
 Features
 - Fix note title https://github.com/BoostIO/Boostnote/pull/398

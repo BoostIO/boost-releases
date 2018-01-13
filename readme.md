@@ -6,6 +6,34 @@
 
 ## Changelog
 
+## 0.8.20(2018/1/13)
+
+Features
+
+- Export folder https://github.com/BoostIO/Boostnote/pull/1147
+- Export html https://github.com/BoostIO/Boostnote/pull/1256
+- Implement delete confirmation dialog https://github.com/BoostIO/Boostnote/pull/1324
+- Close a bracket automatically https://github.com/BoostIO/Boostnote/pull/1392
+- Other minor changes
+  - Remove init modal https://github.com/BoostIO/Boostnote/pull/1379
+  - Add tooltip to new note button https://github.com/BoostIO/Boostnote/pull/1321
+  - Add small notification ui on preferences change https://github.com/BoostIO/Boostnote/pull/1220
+
+Fix
+
+- Fix update for Windows https://github.com/BoostIO/Boostnote/pull/1393
+- Fix failure to open Finder on Ubuntu16.04 https://github.com/BoostIO/Boostnote/pull/1302
+- Fix links to snippet note https://github.com/BoostIO/Boostnote/pull/1329
+- Fix starred item count https://github.com/BoostIO/Boostnote/pull/1331
+- Fix editorIndentSize config option https://github.com/BoostIO/Boostnote/pull/1349
+- Fix elixir highlighting https://github.com/BoostIO/Boostnote/pull/1354
+- Fix note disappearing when adding tag https://github.com/BoostIO/Boostnote/pull/1363
+- Fix font-family for code-editor
+- Fix missing style for solarized-dark-theme
+  - Info panel https://github.com/BoostIO/Boostnote/pull/1347
+  - Markdown table https://github.com/BoostIO/Boostnote/pull/1343
+  - Create folder modal https://github.com/BoostIO/Boostnote/pull/1384
+
 ## 0.8.19(2017/12/23)
 Feature
 - Solarized Dark Theme https://github.com/BoostIO/Boostnote/pull/1293
@@ -172,21 +200,21 @@ Dev
 
 ## Features
 - Fix layout #736
-- Change to work ctrl-e and ctrl-w in RIGHTCLICK #753 
-- Add Print #754 
-- iss #758 Add InfoButton and InfoPanel in Trash #765 
-- Context search #766 
-- Add boostnoterc revival #783 
+- Change to work ctrl-e and ctrl-w in RIGHTCLICK #753
+- Add Print #754
+- iss #758 Add InfoButton and InfoPanel in Trash #765
+- Context search #766
+- Add boostnoterc revival #783
 
 ## Bug Fix
-- Change order for AMA event #749 
-- Fix noteCount on a note trashed #764 
-- Fixes typo in welcome screen #767 
-- Fixed InfoPanel layout in Trash #768 
-- Finder UI Fix (My Storage positioning) #777 
-- Add Lato font-face definition to main.html #779 
-- Add storageKey to MarkdownEditor #780 
-- Update application wording #782 
+- Change order for AMA event #749
+- Fix noteCount on a note trashed #764
+- Fixes typo in welcome screen #767
+- Fixed InfoPanel layout in Trash #768
+- Finder UI Fix (My Storage positioning) #777
+- Add Lato font-face definition to main.html #779
+- Add storageKey to MarkdownEditor #780
+- Update application wording #782
 
 ## 0.8.12 (2017/7/29)
 
@@ -209,7 +237,7 @@ Dev
 - Add exports to infoPanel https://github.com/BoostIO/Boostnote/pull/709
 - Change to create a new directory when storage/images does not exist https://github.com/BoostIO/Boostnote/pull/710
 - Add checkbox for ama https://github.com/BoostIO/Boostnote/pull/715
-- Change ["title"](note-hash) to [the exact title](note-hash) https://github.com/BoostIO/Boostnote/pull/716 
+- Change ["title"](note-hash) to [the exact title](note-hash) https://github.com/BoostIO/Boostnote/pull/716
 - Fix typos Dynamit to Dynamic https://github.com/BoostIO/Boostnote/pull/718
 - Update readme https://github.com/BoostIO/Boostnote/pull/721
 - Fix layout https://github.com/BoostIO/Boostnote/pull/722

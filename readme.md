@@ -6,6 +6,35 @@
 
 ## Changelog
 
+## 0.8.21(2018/2/3)
+
+Feature
+
+- Make line numbers in the editor optional #879
+- convert uml to utf8 before converting to base64 #1271
+- Change the control icon on Windows #1411
+- added button for copy note link #1416
+- name note to imported file #1418
+- added encoding meta tag #1419
+- make save button position:fixed #1425
+- Remove inline-style from markdown link list #1429
+- Allows keyboard text selection in Finder search box #1457
+- Feat/add ability to clone note #1472
+- Allow preview area to scroll past end of file #1480
+- Remove leading # when creating tag #1481
+
+Bug / Fixes
+
+- Fix info right buttons layout #1453
+- Fix the editor lock button layout #1464
+- Fix #1477 #1484
+- Fix the folded layout on side bar #1413
+- Fix the Solarized Dark Styling #1412
+
+Dev
+
+- Update KaTeX library from 0.7.1 to 0.8.3 #1494
+
 ## 0.8.20(2018/1/13)
 
 Features

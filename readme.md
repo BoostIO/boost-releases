@@ -6,10 +6,11 @@
 
 ## Changelog
 
-## 0.8.21(2018/2/3)
+## 0.9.0(2018/2/4)
 
-Feature
+Features
 
+- Discard Finder
 - Make line numbers in the editor optional #879
 - convert uml to utf8 before converting to base64 #1271
 - Change the control icon on Windows #1411

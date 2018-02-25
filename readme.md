@@ -6,6 +6,34 @@
 
 ## Changelog
 
+## 0.10.0(2018/2/25)
+
+Features
+
+- Export note with local assets. https://github.com/BoostIO/Boostnote/pull/1306
+- Fetch title of the given url automatically. https://github.com/BoostIO/Boostnote/pull/1509
+- Sync scroll positions of split editor. https://github.com/BoostIO/Boostnote/pull/1521
+- Highlight global serch matches on code editor. https://github.com/BoostIO/Boostnote/pull/1524
+- Keep selection synced if the selected note is still visible. https://github.com/BoostIO/Boostnote/pull/1528
+- Display filename in codeblock. https://github.com/BoostIO/Boostnote/pull/1533
+- Add tooltip to some buttons. https://github.com/BoostIO/Boostnote/pull/1539
+- Add option to switch preview with double click. https://github.com/BoostIO/Boostnote/pull/1543
+- Make pinning note available on `All Notes` view. https://github.com/BoostIO/Boostnote/pull/1544
+- Improve UX of restoring note. https://github.com/BoostIO/Boostnote/pull/1549/files
+- Display storage name or folder name to note items. https://github.com/BoostIO/Boostnote/pull/1556
+- Add option to empty trash. https://github.com/BoostIO/Boostnote/pull/1558
+- Add note counts to tags view. https://github.com/BoostIO/Boostnote/pull/1559
+
+Bug fixes
+
+- Fix permanently deleting note. https://github.com/BoostIO/Boostnote/pull/1483
+- Fix wrong behavior of the editor when handling todo list items. https://github.com/BoostIO/Boostnote/pull/1502
+- Fix note count which including trashed notes. https://github.com/BoostIO/Boostnote/pull/1527
+- Fix typo in UI. https://github.com/BoostIO/Boostnote/pull/1501
+- Fix bad styling of todo list. https://github.com/BoostIO/Boostnote/pull/1531
+- Fix ToggleMode button overlapping. https://github.com/BoostIO/Boostnote/pull/1567
+- Fix memory lickage when searching notes. https://github.com/BoostIO/Boostnote/pull/1570
+
 ## 0.9.0(2018/2/4)
 
 Features
@@ -24,7 +52,7 @@ Features
 - Allow preview area to scroll past end of file #1480
 - Remove leading # when creating tag #1481
 
-Bug / Fixes
+Bug fixes
 
 - Fix info right buttons layout #1453
 - Fix the editor lock button layout #1464

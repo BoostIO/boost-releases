@@ -6,6 +6,13 @@
 
 ## Changelog
 
+## 0.11.1(2018/3/12)
+
+Bug fixes
+
+- Fix checkbox
+- Fix typo
+
 ## 0.11.0(2018/3/12)
 
 Features

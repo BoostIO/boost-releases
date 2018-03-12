@@ -6,6 +6,38 @@
 
 ## Changelog
 
+## 0.11.0(2018/3/12)
+
+Features
+
+- Publish markdown notes to wordpress. https://github.com/BoostIO/Boostnote/pull/1575
+- Sanitize markdown content. https://github.com/BoostIO/Boostnote/pull/1634
+- Move images between storages together with note. https://github.com/BoostIO/Boostnote/pull/1579
+- Add copy button of note link. https://github.com/BoostIO/Boostnote/pull/1583
+- Improve key bindings for search. https://github.com/BoostIO/Boostnote/pull/1593
+- Add shortcut key for full screen. https://github.com/BoostIO/Boostnote/pull/1611
+- Sort tags alphabetically. https://github.com/BoostIO/Boostnote/pull/1616
+- Allow folders to be draggable on side bar. https://github.com/BoostIO/Boostnote/pull/1617
+- Add an option to toggle smart quotes. https://github.com/BoostIO/Boostnote/pull/1621
+- Use uuid/v4 for note id. https://github.com/BoostIO/Boostnote/pull/1636
+
+Bug fixes
+
+- Fix UI overlapping in the snippet editor. https://github.com/BoostIO/Boostnote/pull/1584
+- Fix auto scroll. https://github.com/BoostIO/Boostnote/pull/1591
+- Fix auto insertion of markdown list. https://github.com/BoostIO/Boostnote/pull/1594
+- Fix missing zoom button. https://github.com/BoostIO/Boostnote/pull/1601
+- Fix broken title of website, not using utf-8 encoding. https://github.com/BoostIO/Boostnote/pull/1612
+- Fix missing progress bar. https://github.com/BoostIO/Boostnote/pull/1614
+- Add missing utf-8 charset tag to exported html. https://github.com/BoostIO/Boostnote/pull/1639
+- Add missing viewport tag to exported html. https://github.com/BoostIO/Boostnote/pull/1643
+- Fix style of code block in exported html. https://github.com/BoostIO/Boostnote/pull/1648
+
+Dev
+
+- Fix tests https://github.com/BoostIO/Boostnote/pull/1649
+- Upgrade KaTeX to v0.9.0 https://github.com/BoostIO/Boostnote/pull/1650
+
 ## 0.10.0(2018/2/25)
 
 Features

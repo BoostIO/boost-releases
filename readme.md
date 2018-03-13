@@ -6,12 +6,24 @@
 
 ## Changelog
 
+## 0.11.2(2018/3/13)
+
+Features
+
+- Add draggable handle. https://github.com/BoostIO/Boostnote/pull/1670
+
+Bug fixes
+
+- Allow some html tags just like github does. https://github.com/BoostIO/Boostnote/pull/1673
+- Fix note link. https://github.com/BoostIO/Boostnote/pull/1664
+- Fix note item UI. https://github.com/BoostIO/Boostnote/pull/1663
+
 ## 0.11.1(2018/3/12)
 
 Bug fixes
 
-- Fix checkbox
-- Fix typo
+- Fix checkbox https://github.com/BoostIO/Boostnote/pull/1659
+- Fix typo https://github.com/BoostIO/Boostnote/pull/1660
 
 ## 0.11.0(2018/3/12)
 

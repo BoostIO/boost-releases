@@ -6,6 +6,28 @@
 
 ## Changelog
 
+## 0.11.3(2018/3/22)
+
+Features
+
+- i18n https://github.com/BoostIO/Boostnote/pull/1640 https://github.com/BoostIO/Boostnote/pull/1692 https://github.com/BoostIO/Boostnote/pull/1700 https://github.com/BoostIO/Boostnote/pull/1713 https://github.com/BoostIO/Boostnote/pull/1720
+- Make sanitization configurable https://github.com/BoostIO/Boostnote/pull/1715
+- Add rulers https://github.com/BoostIO/Boostnote/pull/1709
+
+Bug fixes
+
+- Fix blog posting. https://github.com/BoostIO/Boostnote/pull/1676
+- Prevent generating title when pasting URL to inside of a link tag. https://github.com/BoostIO/Boostnote/pull/1684
+- Fix Copy Note Link button in Context Menu https://github.com/BoostIO/Boostnote/pull/1696
+- Fix smart quotes when blog posting. https://github.com/BoostIO/Boostnote/pull/1691
+- Fix filenames with forbidden symbols during export. https://github.com/BoostIO/Boostnote/pull/1698
+- Fix wrapping for long LaTeX formula. https://github.com/BoostIO/Boostnote/pull/1718
+- Fix process resting after close main window. https://github.com/BoostIO/Boostnote/pull/1721
+
+Dev
+
+- Add unit tests for markdown https://github.com/BoostIO/Boostnote/pull/1678
+
 ## 0.11.2(2018/3/13)
 
 Features

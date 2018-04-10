@@ -6,6 +6,30 @@
 
 ## Changelog
 
+## 0.11.4(2018/4/11)
+
+Features
+
+- Update locales.(Chinese, Spanish, German and Portuguese) https://github.com/BoostIO/Boostnote/pull/1774 https://github.com/BoostIO/Boostnote/pull/1748 https://github.com/BoostIO/Boostnote/pull/1747 https://github.com/BoostIO/Boostnote/pull/1736
+- Implement folding to code editor. https://github.com/BoostIO/Boostnote/pull/1751
+- Add cleaning up trash to context menu. https://github.com/BoostIO/Boostnote/pull/1745
+- Implement sort option for tags. https://github.com/BoostIO/Boostnote/pull/1742
+
+Bug fixes
+
+- Fix i18n. https://github.com/BoostIO/Boostnote/pull/1764
+- Fix styling of Side nav. https://github.com/BoostIO/Boostnote/pull/1778 https://github.com/BoostIO/Boostnote/pull/1759
+- Fix editor behavior of vim mode. https://github.com/BoostIO/Boostnote/issues/1003
+- Escape html characters before convert to HTML. https://github.com/BoostIO/Boostnote/pull/1753
+- Fix reload crash on /searched. https://github.com/BoostIO/Boostnote/pull/1744
+- Fix process remaining after closing all windows on Linux with Cinnamon.  https://github.com/BoostIO/Boostnote/pull/1741
+- Ignore broken note. https://github.com/BoostIO/Boostnote/pull/1737
+
+Dev
+
+- Prepare to use Jest. https://github.com/BoostIO/Boostnote/pull/1752
+- Refactor copying images https://github.com/BoostIO/Boostnote/pull/1724/files
+
 ## 0.11.3(2018/3/22)
 
 Features

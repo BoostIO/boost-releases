@@ -6,6 +6,52 @@
 
 ## Changelog
 
+## 0.11.5(2018/5/20)
+
+Features
+
+- Show only related tags, select multiple tags https://github.com/BoostIO/Boostnote/pull/1775
+- Add fullscreen shortcut for non macOS https://github.com/BoostIO/Boostnote/pull/1754
+- Show confirmation dialog when deleting notes from the context menu https://github.com/BoostIO/Boostnote/pull/1749
+- Add Japanese locale https://github.com/BoostIO/Boostnote/pull/1832 https://github.com/BoostIO/Boostnote/pull/1918
+- Add Italian locale https://github.com/BoostIO/Boostnote/pull/1842
+- Add Persian locale https://github.com/BoostIO/Boostnote/pull/1842
+- Discard unassigned tags in tag list https://github.com/BoostIO/Boostnote/pull/1873
+- Add monokai theme https://github.com/BoostIO/Boostnote/pull/1875
+- Delete images when it is not presented in note anymore https://github.com/BoostIO/Boostnote/pull/1899
+- Delete all images when its note https://github.com/BoostIO/Boostnote/pull/1902
+- Enable codemirror multiplex mode https://github.com/BoostIO/Boostnote/pull/1912
+- Configurable plantUML server https://github.com/BoostIO/Boostnote/pull/1916
+- Update codemirror https://github.com/BoostIO/Boostnote/pull/1925
+
+Bug fixes
+
+- Fix missing locales https://github.com/BoostIO/Boostnote/pull/1802
+- Fix moving notes with images https://github.com/BoostIO/Boostnote/pull/1805 https://github.com/BoostIO/Boostnote/pull/1852 https://github.com/BoostIO/Boostnote/pull/1895 https://github.com/BoostIO/Boostnote/pull/1923
+- Fix menu popup when alt is pressed https://github.com/BoostIO/Boostnote/pull/1809
+- Fix image display after pasting https://github.com/BoostIO/Boostnote/pull/1824
+- Fix typo in spanish locale https://github.com/BoostIO/Boostnote/pull/1831
+- Fix typo in zh-TW locale https://github.com/BoostIO/Boostnote/pull/1834
+- Fix note count of storage list https://github.com/BoostIO/Boostnote/pull/1836
+- Fix deprecation warning of moment.js https://github.com/BoostIO/Boostnote/pull/1859
+- Fix preview link bug https://github.com/BoostIO/Boostnote/pull/1858
+- Fix internal note link bug https://github.com/BoostIO/Boostnote/pull/1868
+- Fix font color for printing and exporting when using dark theme https://github.com/BoostIO/Boostnote/pull/1865
+- Fix font color in code block https://github.com/BoostIO/Boostnote/pull/1870
+- Fix empty trash menu when sidebar folded https://github.com/BoostIO/Boostnote/pull/1872
+- Fix image path in exported notes on windows https://github.com/BoostIO/Boostnote/pull/1874
+- Fix drag and drop move more than one note when the target note is not focused https://github.com/BoostIO/Boostnote/pull/1883
+- Fix note item styling of dark theme https://github.com/BoostIO/Boostnote/pull/1915
+- Fix inconsistent updates to react component state https://github.com/BoostIO/Boostnote/pull/1919
+- Fix mis-referenced state properties https://github.com/BoostIO/Boostnote/pull/1920
+
+Dev
+
+- Update node version for travis CI https://github.com/BoostIO/Boostnote/pull/1603
+- Add an issue template https://github.com/BoostIO/Boostnote/pull/1804
+- Refactoring https://github.com/BoostIO/Boostnote/pull/1807 https://github.com/BoostIO/Boostnote/pull/1818
+- Optimize image assets https://github.com/BoostIO/Boostnote/pull/1863
+
 ## 0.11.4(2018/4/11)
 
 Features

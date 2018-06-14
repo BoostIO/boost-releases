@@ -6,6 +6,41 @@
 
 ## Changelog
 
+## 0.11.6(2018/6/14)
+
+Features
+
+- Resizable split view. You can adjust width of editor and preview by dragging. https://github.com/BoostIO/Boostnote/pull/2062
+- Hide copy to clipboard button when printing. https://github.com/BoostIO/Boostnote/pull/2039
+- Open local files by OS shell. https://github.com/BoostIO/Boostnote/pull/2019
+- Add Turkish locale. https://github.com/BoostIO/Boostnote/pull/2017
+- Improve note attachments. https://github.com/BoostIO/Boostnote/pull/2002 https://github.com/BoostIO/Boostnote/pull/1939 https://github.com/BoostIO/Boostnote/pull/1936
+- Custom markdown css. https://github.com/BoostIO/Boostnote/pull/1996
+- Generate an image tag when the pasted URL is image. https://github.com/BoostIO/Boostnote/pull/1989
+- Support markup admonitions. https://github.com/BoostIO/Boostnote/pull/1987
+- Implement shortcuts for zoomin and zoomout https://github.com/BoostIO/Boostnote/pull/1969
+- Adjust cursor position after updating title of link. https://github.com/BoostIO/Boostnote/pull/1951
+- Implement shortcuts for toggle editor mode https://github.com/BoostIO/Boostnote/pull/1929
+
+
+Bug fixes
+
+- Fix laggy searching by debounce rendering. https://github.com/BoostIO/Boostnote/pull/2064 https://github.com/BoostIO/Boostnote/pull/2065
+- Fix placeholder color of dark themee. https://github.com/BoostIO/Boostnote/pull/2060
+- Fix styling of crowdfunding tab. https://github.com/BoostIO/Boostnote/pull/2059
+- Fix background color of kbd tag in monokai theme. https://github.com/BoostIO/Boostnote/pull/2056
+- Fix wrong path of snippets. https://github.com/BoostIO/Boostnote/pull/2047
+- Fix smart arrows https://github.com/BoostIO/Boostnote/pull/2041
+- Improve locales.  https://github.com/BoostIO/Boostnote/pull/1983 https://github.com/BoostIO/Boostnote/pull/1928 https://github.com/BoostIO/Boostnote/pull/1970 https://github.com/BoostIO/Boostnote/pull/2057
+- Fix styling of tooltip. https://github.com/BoostIO/Boostnote/pull/1933
+- Remove unused tags. https://github.com/BoostIO/Boostnote/pull/1931
+
+Dev
+
+- Fix duplicated lines after merging. https://github.com/BoostIO/Boostnote/pull/2058
+- Fix yarn.lock. https://github.com/BoostIO/Boostnote/pull/2024
+- Update Electron to v1.8.7. https://github.com/BoostIO/Boostnote/pull/1955
+
 ## 0.11.5(2018/5/20)
 
 Features

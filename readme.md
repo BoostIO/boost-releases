@@ -8,8 +8,6 @@
 
 ## 0.11.7(2018/6/30)
 
-Features
-
 Bug fixes
 
 - Upgrade markdown-it-plantuml to support non-english characters. https://github.com/BoostIO/Boostnote/pull/2122
@@ -17,7 +15,6 @@ Bug fixes
 - Fix migration images from the legacy location. https://github.com/BoostIO/Boostnote/pull/2107
 - Improve locales(French and Traditional Chinese). https://github.com/BoostIO/Boostnote/pull/2105 https://github.com/BoostIO/Boostnote/pull/2066
 - Adjust position of info panel. https://github.com/BoostIO/Boostnote/pull/2075
-
 
 Dev
 

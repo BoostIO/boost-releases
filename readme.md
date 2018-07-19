@@ -6,6 +6,28 @@
 
 ## Changelog
 
+## 0.11.8(2018/7/19)
+
+Features
+
+- Allow customizing html escape when exporting a note. https://github.com/BoostIO/Boostnote/pull/1935
+- Improve settings UI. https://github.com/BoostIO/Boostnote/pull/2135 https://github.com/BoostIO/Boostnote/pull/2138
+- Add collapsed state for storage. https://github.com/BoostIO/Boostnote/pull/2144
+- Add Table formatter. https://github.com/BoostIO/Boostnote/pull/2145
+- Upgrade codemirror. https://github.com/BoostIO/Boostnote/pull/2146
+- Support mermaid. https://github.com/BoostIO/Boostnote/pull/2173
+- Implement hotkey for toggle editor. https://github.com/BoostIO/Boostnote/pull/2178
+- Change shortcuts for `Next note` and `Previous note`. https://github.com/BoostIO/Boostnote/pull/2192
+- Improve bracket autoclosing. https://github.com/BoostIO/Boostnote/pull/2197
+
+Bug fixes
+
+- Fix attachments migration. https://github.com/BoostIO/Boostnote/pull/2205
+- Fix context menu bug. https://github.com/BoostIO/Boostnote/pull/2158
+- Fix `Focus search` shortcut. https://github.com/BoostIO/Boostnote/pull/2168
+- Fix flickering when creating a note. https://github.com/BoostIO/Boostnote/pull/2183
+- Fix UI bug when deleting a note. https://github.com/BoostIO/Boostnote/issues/2156
+
 ## 0.11.7(2018/6/30)
 
 Bug fixes

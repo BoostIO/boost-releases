@@ -6,6 +6,35 @@
 
 ## Changelog
 
+## 0.11.9(2018/9/4)
+
+Features
+
+- Add a shortcut for focusing tag editor(CmdOrControl+Shift+T). https://github.com/BoostIO/Boostnote/pull/2208
+- Add code snippets to search scope. https://github.com/BoostIO/Boostnote/pull/2226
+- Add DITAA support. https://github.com/BoostIO/Boostnote/pull/2235
+- Improve side navigation color. https://github.com/BoostIO/Boostnote/pull/2272
+- Add per-folder sort. https://github.com/BoostIO/Boostnote/pull/2284
+- Restore window position. https://github.com/BoostIO/Boostnote/pull/2302
+
+Bug fixes
+
+- Fix search value for html export path. https://github.com/BoostIO/Boostnote/pull/2171
+- Fix trash info panel. https://github.com/BoostIO/Boostnote/pull/2209
+- Fix version of markdown-it-admonition. https://github.com/BoostIO/Boostnote/pull/2214
+- Fix wrong escape in codeblock. https://github.com/BoostIO/Boostnote/pull/2230
+- Fix mermaid style for dark theme. https://github.com/BoostIO/Boostnote/pull/2231
+- Fix markdown snippet. https://github.com/BoostIO/Boostnote/pull/2253
+- Fix migration for attachments. https://github.com/BoostIO/Boostnote/pull/2257
+- Fix snippet list bug. https://github.com/BoostIO/Boostnote/pull/2283
+- Fix todo percentage. https://github.com/BoostIO/Boostnote/pull/2307
+
+Dev
+
+- Upgrade electron version. https://github.com/BoostIO/Boostnote/pull/2303
+- Improve development scripts. https://github.com/BoostIO/Boostnote/pull/2216
+- Update documents. https://github.com/BoostIO/Boostnote/pull/2239 https://github.com/BoostIO/Boostnote/pull/2311
+
 ## 0.11.8(2018/7/19)
 
 Features

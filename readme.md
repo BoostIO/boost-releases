@@ -6,6 +6,57 @@
 
 ## Changelog
 
+## 0.11.10(2018/10/19)
+
+Features
+
+- Add default note option. https://github.com/BoostIO/Boostnote/pull/2369
+- Add default language option for snippet notes. https://github.com/BoostIO/Boostnote/pull/2352
+- Add Dracula theme. https://github.com/BoostIO/Boostnote/pull/2414
+- Add macOS touchbar support. https://github.com/BoostIO/Boostnote/pull/2327
+- Add tag autocomplete. https://github.com/BoostIO/Boostnote/pull/2320
+- Add smart table editor. https://github.com/BoostIO/Boostnote/pull/2312
+- Add automatic table of contents generation for Markdown. https://github.com/BoostIO/Boostnote/pull/2281
+- Apply alternate background color for table rows. https://github.com/BoostIO/Boostnote/pull/2476
+- Add linethrough checkbox & make it optional. https://github.com/BoostIO/Boostnote/pull/2460
+- Add exporting all markdown files in a storage. https://github.com/BoostIO/Boostnote/pull/2292
+- Add a Copy button the Snippets tab. https://github.com/BoostIO/Boostnote/pull/2445
+- Change Toggle Editor Mode hotkey on OS X. https://github.com/BoostIO/Boostnote/pull/2437
+- Display timestamp on all notes. https://github.com/BoostIO/Boostnote/pull/2436
+- Allow abbreviation for Option in hotkeys. https://github.com/BoostIO/Boostnote/pull/2435
+- Add a context menu handler to show an attachment in the expl…. https://github.com/BoostIO/Boostnote/pull/2418
+- Make links clickable https://github.com/BoostIO/Boostnote/pull/2382
+- Improve style. https://github.com/BoostIO/Boostnote/pull/2386 https://github.com/BoostIO/Boostnote/pull/2355 https://github.com/BoostIO/Boostnote/pull/2344 https://github.com/BoostIO/Boostnote/pull/2304
+- Escape Pipe character when inserting a URL into a table https://github.com/BoostIO/Boostnote/pull/2381
+- Make tags over the editor are clickable https://github.com/BoostIO/Boostnote/pull/2371
+- Support front-matter. https://github.com/BoostIO/Boostnote/pull/2347
+- Improve locales. https://github.com/BoostIO/Boostnote/pull/2364
+- Add Polish locale. https://github.com/BoostIO/Boostnote/pull/2363
+- Improve wordings of UI. https://github.com/BoostIO/Boostnote/pull/2442 https://github.com/BoostIO/Boostnote/pull/2431 https://github.com/BoostIO/Boostnote/pull/2429 https://github.com/BoostIO/Boostnote/pull/2410 https://github.com/BoostIO/Boostnote/pull/2404
+
+Bug fixes
+
+- Fix visual bug with preview. https://github.com/BoostIO/Boostnote/pull/2477
+- Fix small visual bug in tag autocomplete. https://github.com/BoostIO/Boostnote/pull/2462
+- Fix graphical bugs in snippet list https://github.com/BoostIO/Boostnote/pull/2444
+- Update codemirror to fix centered column as not emoji. https://github.com/BoostIO/Boostnote/pull/2443
+- Fix TypeError thrown on the Snippets page. https://github.com/BoostIO/Boostnote/pull/2438
+- Monokai theme fixes. https://github.com/BoostIO/Boostnote/pull/2428
+- Fix style break in folder list of preferences. https://github.com/BoostIO/Boostnote/pull/2412
+- Fix selection position changing when going fullscreen or resizing splitEditor. https://github.com/BoostIO/Boostnote/pull/2406
+- Fix a bug causing right click to copy a note. https://github.com/BoostIO/Boostnote/pull/2402\
+- Fix tag autocomplete in snippet note. https://github.com/BoostIO/Boostnote/pull/2400
+- Fix admonitions. https://github.com/BoostIO/Boostnote/pull/2389
+- Fix scroll for long table https://github.com/BoostIO/Boostnote/pull/2345
+- Fix drop image rotate wrong https://github.com/BoostIO/Boostnote/pull/2322
+
+Dev
+
+- Update contributing.md https://github.com/BoostIO/Boostnote/pull/2403 https://github.com/BoostIO/Boostnote/pull/2329
+- Update readme.md https://github.com/BoostIO/Boostnote/pull/2439
+- Update issue template https://github.com/BoostIO/Boostnote/pull/2449
+- Add EditorConfig. https://github.com/BoostIO/Boostnote/pull/2313
+
 ## 0.11.9(2018/9/4)
 
 Features

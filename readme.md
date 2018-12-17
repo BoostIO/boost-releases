@@ -6,6 +6,38 @@
 
 ## Changelog
 
+## 0.11.12(2018/12/17)
+
+Features
+
+- Implement Spellchecker experementally.(You can enable it from prefrences) https://github.com/BoostIO/Boostnote/pull/2338
+- Overhaul menu items. https://github.com/BoostIO/Boostnote/pull/2666
+- Add shorcut key for info panel.(macOS: `Cmd + I`, Windows and Linux: `Ctrl + I`) https://github.com/BoostIO/Boostnote/pull/2621/files
+- Show warning when trying to print snippets. https://github.com/BoostIO/Boostnote/pull/2637
+- Update Japanese locales. https://github.com/BoostIO/Boostnote/pull/2690
+- Highlight folders when dragging a note over them. https://github.com/BoostIO/Boostnote/pull/2684
+- Improve zoom control. https://github.com/BoostIO/Boostnote/pull/2601
+- Add a configurable option to create note with selected tags. https://github.com/BoostIO/Boostnote/pull/2498
+- Clear search when note is created. https://github.com/BoostIO/Boostnote/pull/2399
+
+Bugs
+
+- Fix pasting into fenced code block. https://github.com/BoostIO/Boostnote/pull/2641
+- Fix codeblock in admonitions. https://github.com/BoostIO/Boostnote/pull/2622
+- Fix editor context menu. https://github.com/BoostIO/Boostnote/pull/2643
+- Fix `copyFile` when handling encoded uri path. https://github.com/BoostIO/Boostnote/pull/2672
+- Fix checkboxes in nested list. https://github.com/BoostIO/Boostnote/pull/2620
+- Fix preview on right click when split view mode. https://github.com/BoostIO/Boostnote/pull/2611
+- Fix minor style issues. https://github.com/BoostIO/Boostnote/pull/2604
+- Fix exporting a folder with attachments. https://github.com/BoostIO/Boostnote/pull/2383
+- Fix duplicated toc jump link. https://github.com/BoostIO/Boostnote/pull/2592
+
+Dev
+
+- Update readme.md. https://github.com/BoostIO/Boostnote/pull/2685
+- Update PR template. https://github.com/BoostIO/Boostnote/pull/2504
+
+
 ## 0.11.11(2018/11/16)
 
 Features

@@ -37,7 +37,6 @@ Dev
 - Update readme.md. https://github.com/BoostIO/Boostnote/pull/2685
 - Update PR template. https://github.com/BoostIO/Boostnote/pull/2504
 
-
 ## 0.11.11(2018/11/16)
 
 Features

@@ -6,6 +6,50 @@
 
 ## Changelog
 
+## 0.11.13(2019/1/26)
+
+Features
+
+- Introduce auto detect of language of snippet notes. https://github.com/BoostIO/Boostnote/pull/2768
+- Introduce colored tags. https://github.com/BoostIO/Boostnote/pull/2758
+- Add cheatsheets to menu. https://github.com/BoostIO/Boostnote/pull/2811
+- Update locale. https://github.com/BoostIO/Boostnote/pull/2772 https://github.com/BoostIO/Boostnote/pull/2771 https://github.com/BoostIO/Boostnote/pull/2764 https://github.com/BoostIO/Boostnote/pull/2761
+- Make menu bar visibility configurable. https://github.com/BoostIO/Boostnote/pull/2759
+- Improve tab ui of snippet notes. https://github.com/BoostIO/Boostnote/pull/2704
+- Highlight lines in code editor. https://github.com/BoostIO/Boostnote/pull/2682
+- Make markdown preview accept image dragging. https://github.com/BoostIO/Boostnote/pull/2591
+- Make auto bracket matching configurable. https://github.com/BoostIO/Boostnote/pull/2586
+- Introduce image gallery. https://github.com/BoostIO/Boostnote/pull/2465
+
+Bug fixes
+
+- Fix bullet position of LaTeX equation in list. https://github.com/BoostIO/Boostnote/pull/2786
+- Fix KaTeX alignment in display math. https://github.com/BoostIO/Boostnote/pull/2692
+- Fix hotkey alias, `Cmd`. https://github.com/BoostIO/Boostnote/pull/2774
+- Fix unhandled error from Removal of USB drive. https://github.com/BoostIO/Boostnote/pull/2801
+- Fix white background appears while resizing sidebar. https://github.com/BoostIO/Boostnote/pull/2791
+- Fix `saveTagsAlphabetically`. https://github.com/BoostIO/Boostnote/pull/2756
+- Fix paste image. https://github.com/BoostIO/Boostnote/pull/2747
+- Fix Cmd+Left to go to end of line on Mac. https://github.com/BoostIO/Boostnote/pull/2746
+- Fix min width of note list. https://github.com/BoostIO/Boostnote/pull/2743
+- Fix checkbox list style. https://github.com/BoostIO/Boostnote/pull/2741
+- Fix scroll bar of tag list is not visible. https://github.com/BoostIO/Boostnote/pull/2720
+- Fix toc. https://github.com/BoostIO/Boostnote/pull/2710
+- Fix wrong sanitization which generate closing tag.  https://github.com/BoostIO/Boostnote/pull/2712
+- Fix lock button. https://github.com/BoostIO/Boostnote/pull/2661
+- Fix deleting note not navigates to next note. https://github.com/BoostIO/Boostnote/pull/2651
+- Fix auto-updating numbered list. https://github.com/BoostIO/Boostnote/pull/2598
+- Fix scrolling in note list. https://github.com/BoostIO/Boostnote/pull/2455
+
+Dev
+
+- Refactor. https://github.com/BoostIO/Boostnote/pull/2770 https://github.com/BoostIO/Boostnote/pull/2762
+- Prevent checkUpdate triggered in dev env. https://github.com/BoostIO/Boostnote/pull/2798
+- Add FAQ.md https://github.com/BoostIO/Boostnote/pull/2755
+- Update docs. https://github.com/BoostIO/Boostnote/pull/2797 https://github.com/BoostIO/Boostnote/pull/2795
+- Fix windows debug path. https://github.com/BoostIO/Boostnote/pull/2730
+- Lint before commit. https://github.com/BoostIO/Boostnote/pull/2456
+
 ## 0.11.12(2018/12/17)
 
 Features
@@ -20,7 +64,7 @@ Features
 - Add a configurable option to create note with selected tags. https://github.com/BoostIO/Boostnote/pull/2498
 - Clear search when note is created. https://github.com/BoostIO/Boostnote/pull/2399
 
-Bugs
+Bug fixes
 
 - Fix pasting into fenced code block. https://github.com/BoostIO/Boostnote/pull/2641
 - Fix codeblock in admonitions. https://github.com/BoostIO/Boostnote/pull/2622

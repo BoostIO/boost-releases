@@ -6,6 +6,12 @@
 
 ## Changelog
 
+## 0.11.15(2019/2/8)
+
+Bug fixes
+
+- Fix auto updater.
+
 ## 0.11.14(2019/2/8)
 
 Features

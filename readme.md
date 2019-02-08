@@ -6,6 +6,21 @@
 
 ## Changelog
 
+## 0.11.14(2019/2/8)
+
+Features
+
+- Zoom in and out image. https://github.com/BoostIO/Boostnote/pull/2809
+
+Bug fixes
+
+- Fix local images in markdown preview. https://github.com/BoostIO/Boostnote/pull/2835 https://github.com/BoostIO/Boostnote/pull/2848
+- Fix drag and drop images. https://github.com/BoostIO/Boostnote/pull/2642
+- Fix default editor font for Windows. https://github.com/BoostIO/Boostnote/pull/2831
+- Fix grammar error in UI. https://github.com/BoostIO/Boostnote/pull/2856
+- Fix Gif animation. https://github.com/BoostIO/Boostnote/pull/2852
+- Fix note title with `#`. https://github.com/BoostIO/Boostnote/pull/2863
+
 ## 0.11.13(2019/1/26)
 
 Features

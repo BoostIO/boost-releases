@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.11.17(2019/5/26)
+
+- Make markdown lint configurable(Disabled by default) https://github.com/BoostIO/Boostnote/pull/3034
+
 ## 0.11.16(2019/5/22)
 
 - Add React hooks section to code style guide [#3000](https://github.com/BoostIO/Boostnote/pull/3000)

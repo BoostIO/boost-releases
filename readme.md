@@ -6,6 +6,28 @@
 
 ## Changelog
 
+## 0.12.0(2019/7/24)
+
+- Dont highlight search term if search field is emptied [#3112](https://github.com/BoostIO/Boostnote/pull/3112)
+- Debounce deletion of un-referenced attachments [#3107](https://github.com/BoostIO/Boostnote/pull/3107)
+- Add menu item "About" to "Help" [#3079](https://github.com/BoostIO/Boostnote/pull/3079)
+- Changed "insert date & time" hotkey on mac from Shift-Cmd-/ to Alt-Cmd-/ [#3076](https://github.com/BoostIO/Boostnote/pull/3076)
+- Update lock/unlock icons in editor #1760 [#3070](https://github.com/BoostIO/Boostnote/pull/3070)
+- Fix export to PDF exporting corrupted images [#3068](https://github.com/BoostIO/Boostnote/pull/3068)
+- feat: Added Context Menu for markdown preview mode and copy url when … [#3066](https://github.com/BoostIO/Boostnote/pull/3066)
+- Fix Custom CSS Disappears After Saving [#3065](https://github.com/BoostIO/Boostnote/pull/3065)
+- Fix 2892: Line wrapping [#3063](https://github.com/BoostIO/Boostnote/pull/3063)
+- fix chinese language new note tab style [#3062](https://github.com/BoostIO/Boostnote/pull/3062)
+- apply theme color to slider in MarkdownSplitEditor [#3055](https://github.com/BoostIO/Boostnote/pull/3055)
+- Fix #2540 [#3050](https://github.com/BoostIO/Boostnote/pull/3050)
+- Fix theme path issue [#3048](https://github.com/BoostIO/Boostnote/pull/3048)
+- Simplified search input & fixed chinese character input [#3037](https://github.com/BoostIO/Boostnote/pull/3037)
+- fix gallery on windows [#3027](https://github.com/BoostIO/Boostnote/pull/3027)
+- Fix regular expression related checkbox logic [#3001](https://github.com/BoostIO/Boostnote/pull/3001)
+- Fix #2922 [#2998](https://github.com/BoostIO/Boostnote/pull/2998)
+- Fixes that TOC hasn't id attribute when the title is all 2-byte characters [#2994](https://github.com/BoostIO/Boostnote/pull/2994)
+- Upgrade React & React-DOM & React-Router + adding DevTools [#2990](https://github.com/BoostIO/Boostnote/pull/2990)
+
 ## 0.11.17(2019/5/26)
 
 - Make markdown lint configurable(Disabled by default) https://github.com/BoostIO/Boostnote/pull/3034

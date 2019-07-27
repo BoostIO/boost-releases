@@ -6,6 +6,15 @@
 
 ## Changelog
 
+## 0.12.1(2019/7/27)
+
+- Fix themes [#3166](https://github.com/BoostIO/Boostnote/pull/3166)
+- Discard warnings [#3165](https://github.com/BoostIO/Boostnote/pull/3165)
+- MarkdownEditor and MarkdownSplitEditor always wrap lines [#3150](https://github.com/BoostIO/Boostnote/pull/3150)
+- Fix issue 3123 [#3149](https://github.com/BoostIO/Boostnote/pull/3149)
+- Fix permissions [#3148](https://github.com/BoostIO/Boostnote/pull/3148)
+- Fix several propType errors raised by 'react.development.js' [#3133](https://github.com/BoostIO/Boostnote/pull/3133)
+
 ## 0.12.0(2019/7/24)
 
 - Dont highlight search term if search field is emptied [#3112](https://github.com/BoostIO/Boostnote/pull/3112)

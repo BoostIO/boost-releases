@@ -6,6 +6,40 @@
 
 ## Changelog
 
+## 0.13.0(2019.10.16)
+
+- Format markdown content with Prettier [#3093](https://github.com/BoostIO/Boostnote/pull/3093)
+- Add support for plantUML mindmap, wbs, gantt [#3249](https://github.com/BoostIO/Boostnote/pull/3249)
+- npm 'test' script should contain jest tests [#3272](https://github.com/BoostIO/Boostnote/pull/3272)
+- Fix #3160 Add ability to sort lines with hotkey combination [#3257](https://github.com/BoostIO/Boostnote/pull/3257)
+- Fix the same hot-key pattern as the one already in use [#3256](https://github.com/BoostIO/Boostnote/pull/3256)
+- Fix throwing of exception on multiple instances [#3243](https://github.com/BoostIO/Boostnote/pull/3243)
+- Add sidebar collapse button to sidebar while viewing the tags list [#3239](https://github.com/BoostIO/Boostnote/pull/3239)
+- Fix Dracula theme buttons in storage settings [#3238](https://github.com/BoostIO/Boostnote/pull/3238)
+- Fix: Can't open external browser in Markdown Preview with external link containing '#' [#3233](https://github.com/BoostIO/Boostnote/pull/3233)
+- Fix #888 - Wrong word count due splitting [#3226](https://github.com/BoostIO/Boostnote/pull/3226)
+- Add option to disable the automiatic deletion of un-referenced attach… [#3225](https://github.com/BoostIO/Boostnote/pull/3225)
+- Update Chinese translation [#3219](https://github.com/BoostIO/Boostnote/pull/3219)
+- Fix #2636 - Can't scroll to bottom of editor pane [#3206](https://github.com/BoostIO/Boostnote/pull/3206)
+- Fix JavaScript hello world example [#3204](https://github.com/BoostIO/Boostnote/pull/3204)
+- Add `CodeEditor::setLineContent` method to manipulate line contents [#3197](https://github.com/BoostIO/Boostnote/pull/3197)
+- Fix #3174: Enable dragging of notes [#3195](https://github.com/BoostIO/Boostnote/pull/3195)
+- fix: HotkeyTab accidentally set incomplete hotkey, related #3190 [#3194](https://github.com/BoostIO/Boostnote/pull/3194)
+- Fix #3190 - App blanks out after setting HotKey [#3193](https://github.com/BoostIO/Boostnote/pull/3193)
+- Fix XSS vulnerability after PDF export (issue #3178) [#3192](https://github.com/BoostIO/Boostnote/pull/3192)
+- Fix routing for tag filtering (issue #3157) [#3191](https://github.com/BoostIO/Boostnote/pull/3191)
+- Only show context menu if "switch preview" is not set to "on right click" [#3186](https://github.com/BoostIO/Boostnote/pull/3186)
+- Stricter regex pattern in pathname matching, fix #3183 [#3184](https://github.com/BoostIO/Boostnote/pull/3184)
+- Fix #3060 - broken TOC Link [#3181](https://github.com/BoostIO/Boostnote/pull/3181)
+- Fix #2935 - Selecting multiple notes when opening them [#3180](https://github.com/BoostIO/Boostnote/pull/3180)
+- Fix #3159 - blanking with "href" in an element [#3179](https://github.com/BoostIO/Boostnote/pull/3179)
+- MarkdownPreview should scroll to top after selecting another note, also fix #3023 [#3177](https://github.com/BoostIO/Boostnote/pull/3177)
+- optimize: should highlight any non-empty search query, fix #3164 [#3175](https://github.com/BoostIO/Boostnote/pull/3175)
+- Suppport auto generating toc content for the [TOC] tag [#3173](https://github.com/BoostIO/Boostnote/pull/3173)
+- tweak MarkdownPreview style to optimize overflow scrollbar display [#3136](https://github.com/BoostIO/Boostnote/pull/3136)
+- Html to md feature [#3099](https://github.com/BoostIO/Boostnote/pull/3099)
+- Fix #3007 - xss related to mermaid [#3028](https://github.com/BoostIO/Boostnote/pull/3028
+
 ## 0.12.1(2019/7/27)
 
 - Fix themes [#3166](https://github.com/BoostIO/Boostnote/pull/3166)

@@ -6,6 +6,28 @@
 
 ## Changelog
 
+## 0.14.0(2020.1.3)
+
+- Ability to stop auto update [#2617](https://github.com/BoostIO/Boostnote/pull/2617)
+- Admonition [#3297](https://github.com/BoostIO/Boostnote/pull/3297)
+- Add TOC UI [#3352](https://github.com/BoostIO/Boostnote/pull/3352)
+- Improve exporting notes with diagrams [#3317](https://github.com/BoostIO/Boostnote/pull/3317)
+- Add Czech translation [#3264](https://github.com/BoostIO/Boostnote/pull/3264)
+- Add state diagram to markdown preview [#3354](https://github.com/BoostIO/Boostnote/pull/3354)
+- Add Ok button to export confirmation box [#3386](https://github.com/BoostIO/Boostnote/pull/3386)
+- Fix emoji render on notes list [#3385](https://github.com/BoostIO/Boostnote/pull/3385)
+- Fix height of mermaid diagrams [#2585](https://github.com/BoostIO/Boostnote/pull/2585
+- Fix TOC links and scrolling [#3318](https://github.com/BoostIO/Boostnote/pull/3318)
+- Fix preview-window's scroll behavior, #3289 [#3294](https://github.com/BoostIO/Boostnote/pull/3294)
+- Fix/fix to work markdownlint#3147 [#3285](https://github.com/BoostIO/Boostnote/pull/3285)
+- Add error handling to "New note from URL" dialog [#3313](https://github.com/BoostIO/Boostnote/pull/3313)
+- Delete Dialog: typo for the "type" property [#3369](https://github.com/BoostIO/Boostnote/pull/3369)
+- Remove redundant conditions of macOS in main-menu [#3390](https://github.com/BoostIO/Boostnote/pull/3390)
+- Improve reading files [#3371](https://github.com/BoostIO/Boostnote/pull/3371)
+- Bump lodash from 4.17.10 to 4.17.13 [#3324](https://github.com/BoostIO/Boostnote/pull/3324)
+- Bump js-yaml from 3.12.0 to 3.13.1 [#3323](https://github.com/BoostIO/Boostnote/pull/3323)
+- Upgrade electron to v4 [#3322](https://github.com/BoostIO/Boostnote/pull/3322)
+
 ## 0.13.0(2019.10.16)
 
 - Format markdown content with Prettier [#3093](https://github.com/BoostIO/Boostnote/pull/3093)

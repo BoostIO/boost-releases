@@ -6,6 +6,24 @@
 
 ## Changelog
 
+## 0.15.0(2020.2.24)
+
+- Add Nord UI theme [#2879](https://github.com/BoostIO/Boostnote/pull/2879)
+- Add Vulcan UI theme [#3459](https://github.com/BoostIO/Boostnote/pull/3459)
+- Scroll Bars can now be hidden [#2713](https://github.com/BoostIO/Boostnote/pull/2713)
+- Add sorting direction buttons [#3474](https://github.com/BoostIO/Boostnote/pull/3474)
+- Style Dropdown colour (theme aware) [#3472](https://github.com/BoostIO/Boostnote/pull/3472)
+- Improve markdown previewer h1 style [#3215](https://github.com/BoostIO/Boostnote/pull/3215)
+- Filter tags and folders [#2964](https://github.com/BoostIO/Boostnote/pull/2964)
+- Improve locale [#3451](https://github.com/BoostIO/Boostnote/pull/3451)
+- Add rtl toggle button [#3282](https://github.com/BoostIO/Boostnote/pull/3282)
+- Add Wiki Link to Help Menu [#3437](https://github.com/BoostIO/Boostnote/pull/3437)
+- Fix attachment links with non-latin characters [#3398](https://github.com/BoostIO/Boostnote/pull/3398)
+- Fix wrong handler for setting button [#3476](https://github.com/BoostIO/Boostnote/pull/3476)
+- Fix eslint error and integrated with prettier [#3450](https://github.com/BoostIO/Boostnote/pull/3450)
+- Fix prettier configuration [#3413](https://github.com/BoostIO/Boostnote/pull/3413)
+- Update docs [#3482](https://github.com/BoostIO/Boostnote/pull/3482) [#3454](https://github.com/BoostIO/Boostnote/pull/3454) [#3453](https://github.com/BoostIO/Boostnote/pull/3453) [#3414](https://github.com/BoostIO/Boostnote/pull/3414) [#3425](https://github.com/BoostIO/Boostnote/pull/3425) [#3418](https://github.com/BoostIO/Boostnote/pull/3418) [#3416](https://github.com/BoostIO/Boostnote/pull/3416) [#3439](https://github.com/BoostIO/Boostnote/pull/3439) [#3304](https://github.com/BoostIO/Boostnote/pull/3304)
+
 ## 0.14.0(2020.1.3)
 
 - Ability to stop auto update [#2617](https://github.com/BoostIO/Boostnote/pull/2617)

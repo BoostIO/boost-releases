@@ -6,6 +6,14 @@
 
 ## Changelog
 
+## 0.15.1(2020.3.4)
+
+- Make RTL optional [#3510](https://github.com/BoostIO/Boostnote/pull/3510)
+- Fix sidebar scrolling [#3490](https://github.com/BoostIO/Boostnote/pull/3490)
+- Fix misplaced sidebar tooltip [#3499](https://github.com/BoostIO/Boostnote/pull/3499)
+- Add tag link handling with :tag:#tag syntax [#3002](https://github.com/BoostIO/Boostnote/pull/3002
+- Bump deps(lodash.template and url-parse) [#3483](https://github.com/BoostIO/Boostnote/pull/3483) [#3484](https://github.com/BoostIO/Boostnote/pull/3484)
+
 ## 0.15.0(2020.2.24)
 
 - Add Nord UI theme [#2879](https://github.com/BoostIO/Boostnote/pull/2879)

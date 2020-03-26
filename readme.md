@@ -6,6 +6,13 @@
 
 ## Changelog
 
+## 0.15.2(2020.3.26)
+
+- Fix scroll sync [#3531](https://github.com/BoostIO/Boostnote/pull/3531)
+- Fix editor ctrl click for internal links [#3478](https://github.com/BoostIO/Boostnote/pull/3478
+- Bump lodash-es from 4.17.10 to 4.17.15 [#3508](https://github.com/BoostIO/Boostnote/pull/3508)
+- Bump lodash.mergewith from 4.6.1 to 4.6.2 [#3507](https://github.com/BoostIO/Boostnote/pull/3507)
+
 ## 0.15.1(2020.3.4)
 
 - Make RTL optional [#3510](https://github.com/BoostIO/Boostnote/pull/3510)

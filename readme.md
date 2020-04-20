@@ -6,6 +6,14 @@
 
 ## Changelog
 
+## 0.15.3(2020.4.20)
+
+- Scheduled theme(https://github.com/BoostIO/Boostnote/pull/2658 by @gregueiras)
+- Improve inline code block style(https://github.com/BoostIO/Boostnote/pull/3473 by @arcturus140)
+- Fix attachment path when exporting a note into a markdown or html file(https://github.com/BoostIO/Boostnote/pull/3549 by @dredav)
+- Improve Taiwanese Mandarin locale(zh-TW) (https://github.com/BoostIO/Boostnote/pull/3537 by @xatier)
+- Fix adding a Storage that you have unlinked once(https://github.com/BoostIO/Boostnote/pull/3168 by @hikerpig)
+
 ## 0.15.2(2020.3.26)
 
 - Fix scroll sync [#3531](https://github.com/BoostIO/Boostnote/pull/3531)

@@ -6,6 +6,20 @@
 
 ## Changelog
 
+## 0.16.0(2020.7.20)
+
+- Add Wakatime integration [#2923](https://github.com/BoostIO/Boostnote/pull/2923)
+- Add Date shortcut ISO 8601 format as an option in preference [#3600](https://github.com/BoostIO/Boostnote/pull/3600)
+- Add tag renaming [#3469](https://github.com/BoostIO/Boostnote/pull/3469)
+- Rearrange layout of columns [#2936](https://github.com/BoostIO/Boostnote/pull/2936)
+- Update Boostnote name to Boostnote Legacy [#3556](https://github.com/BoostIO/Boostnote/pull/3556)
+- Improve autocomplete within code blocks [#2594](https://github.com/BoostIO/Boostnote/pull/2594)
+- Better scroll sync between the editor and the preview in the SplitEditor [#2405](https://github.com/BoostIO/Boostnote/pull/2405)
+- Fix unclickable links [#3591](https://github.com/BoostIO/Boostnote/pull/3591)
+- Fix broken ui themes [#3589](https://github.com/BoostIO/Boostnote/pull/3589)
+- Update mermaid [#3590](https://github.com/BoostIO/Boostnote/pull/3590)
+- Bump lodash from 4.17.13 to 4.17.19 [#3612](https://github.com/BoostIO/Boostnote/pull/3612)
+
 ## 0.15.3(2020.4.20)
 
 - Scheduled theme(https://github.com/BoostIO/Boostnote/pull/2658 by @gregueiras)

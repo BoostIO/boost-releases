@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.16.1(2020.9.5)
+
+- Add Email subscription form
+
 ## 0.16.0(2020.7.20)
 
 - Add Wakatime integration [#2923](https://github.com/BoostIO/Boostnote/pull/2923)
